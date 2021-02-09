@@ -8,4 +8,4 @@ for (const char of sentence) {
     process.stdout.write(char);
   }, timeIncrease)
   
-}
+};

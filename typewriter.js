@@ -7,5 +7,4 @@ for (const char of sentence) {
   setTimeout(() => {
     process.stdout.write(char);
   }, timeIncrease)
-  
 };
